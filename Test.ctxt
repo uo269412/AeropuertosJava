@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ This\ class\ tests\ the\ getters\ and\ setters\ present\ in\ Person\ class.\r\n\ \r\n\ @author\ (Javier)\r\n\ @version\ (270918)\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=
+comment3.target=boolean\ testGender()
+comment3.text=\r\n\ Returns\ true\ if\ the\ basic\ gender\ related\ methods\ in\ Person\ pass\ a\ series\ of\ tests\ (setGender,\ getGender).\r\n\ @return\ boolean\ True\ passes\ the\ test,\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=boolean\ testIsAGirl()
+comment4.text=\ \r\n\ Returns\ true\ if\ the\ isAGirl\ passes\ a\ series\ of\ tests\r\n\ @return\ boolean\ True\ pass\ the\ tests,false\ otherwise\r\n
+comment5.params=
+comment5.target=boolean\ testAll()
+comment5.text=\r\n\ Returns\ true\ if\ all\ the\ test\ methods\ return\ true.\ False\ if\ at\ least\ one\ method\ returns\ false.\r\n\ @return\ True\ all\ testing\ methods\ return\ true.\ False\ otherwise\r\n
+numComments=6

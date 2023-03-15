@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Computes\ the\ area\ of\ a\ trianlge\ from\ its\ base\ and\ height.\r\n\ \r\n\ @author\ (Javier)\ \r\n\ @version\ (170918)\r\n
+comment1.params=
+comment1.target=Triangle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Triangle\r\n
+comment2.params=height\ base
+comment2.target=double\ computeArea(double,\ double)
+comment2.text=\r\n\ Obtain\ the\ area\ of\ this\ triangle\ from\ its\ base\ and\ height\ (given\ in\ meters)\r\n\ \r\n\ @param\ double\ with\ the\ height\ of\ the\ triangle\ (in\ meters).\ No\ negative\ values\ are\ accepted.\r\n\ @param\ double\ base\ of\ the\ triangle\ (in\ meters).\ No\ negative\ values\ are\ accepted.\r\n\ @return\ double\ containing\ the\ area\ of\ the\ triangle\ (in\ squared\ meters).\r\n
+numComments=3
